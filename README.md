@@ -91,11 +91,9 @@ mysql -u root -p sistem_penyidik < database/sistem_penyidik.sql
 
 **M. Wirayuda Prawira**
 - GitHub: [@aynafez-666](https://github.com/aynafez-666)
-- Email: wira666x@gmail.com
-- WhatsApp: +62 823-5127-9302
 
 ---
 
 ## 📝 License
 
-This project was developed as part of an academic assignment at **Universitas Islam Kalimantan Muhammad Arsyad Al Banjari (UNISKA) Banjarmasin** — Informatics Engineering.
+This project was developed by wira
